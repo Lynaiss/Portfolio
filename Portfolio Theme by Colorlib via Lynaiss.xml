@@ -859,7 +859,7 @@ $(document).ready(function(){
                 <b:section class='Header' id='Header' maxwidgets='1' name='Header' preferred='no' showaddelement='no'>
                   <b:widget id='HTML2' locked='false' title='' type='HTML'>
                     <b:widget-settings>
-                      <b:widget-setting name='content'><![CDATA[<a href="/"><span style="font-weight: 800;font-family:Raleway;font-size:20px;">YOUR NAME<br /></span></a><spanstyle="font-family:Raleway;font-size:14px;color:#7f7f7f;">What you do<br /></spanstyle="font-family:raleway;font-size:14px;color:#7f7f7f;">]]></b:widget-setting>
+                      <b:widget-setting name='content'><![CDATA[<a href="/"><span style="font-weight: 800;font-family:Raleway;font-size:20px;">YOUR NAME<br /></span></a><span style="font-family:Raleway;font-size:14px;color:#7f7f7f;">What you do<br /></span style="font-family:raleway;font-size:14px;color:#7f7f7f;">]]></b:widget-setting>
                     </b:widget-settings>
                     <b:includable id='main'>
   <!-- only display title if it's non-empty -->
