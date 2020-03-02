@@ -1,0 +1,35 @@
+<!--
+
+--INSERT IMAGE--
+
+Add images via Compose tab. Select the already existing one and hit the Insert Image button. Upload or choose your image. When it loads into the post, make sure to select your image and set Original Size under it. New image will load above the existing one. To remove it return to HTML tab and delete the full code of second one. It is as follows:
+
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-g-zSP1y1zjQ/Xl2GELBv5MI/AAAAAAAAD3A/8k1q_UqJkEYMcqSU65nn08lmiZW2dY-3QCLcBGAsYHQ/s1600/When%2BYou%2BTry%2Bto%2BFix%2BYour%2BCode%2Band%2BIt%2BCrashes%2BEverything%2Bby%2BTired%2BPerson.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1300" data-original-width="867" src="https://1.bp.blogspot.com/-g-zSP1y1zjQ/Xl2GELBv5MI/AAAAAAAAD3A/8k1q_UqJkEYMcqSU65nn08lmiZW2dY-3QCLcBGAsYHQ/s1600/When%2BYou%2BTry%2Bto%2BFix%2BYour%2BCode%2Band%2BIt%2BCrashes%2BEverything%2Bby%2BTired%2BPerson.jpg" /></a></div>
+
+--REMOVE EXTRA CODE--
+
+To get rid of indentation around the image, in the HTML tab remove the following bits of code:
+
+<div class="separator" style="clear: both; text-align: center;">
+imageanchor="1" style="margin-left: 1em; margin-right: 1em;" 
+</div>
+
+--TITLE AND DESCRIPTION--
+
+Add title and description by replacing the following:
+
+Title
+Description
+
+-->
+
+<br />
+<div class="separator" style="clear: both; text-align: center;">
+<a href="https://1.bp.blogspot.com/-g-zSP1y1zjQ/Xl2GELBv5MI/AAAAAAAAD3A/8k1q_UqJkEYMcqSU65nn08lmiZW2dY-3QCLcBGAsYHQ/s1600/When%2BYou%2BTry%2Bto%2BFix%2BYour%2BCode%2Band%2BIt%2BCrashes%2BEverything%2Bby%2BTired%2BPerson.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="1300" data-original-width="867" src="https://1.bp.blogspot.com/-g-zSP1y1zjQ/Xl2GELBv5MI/AAAAAAAAD3A/8k1q_UqJkEYMcqSU65nn08lmiZW2dY-3QCLcBGAsYHQ/s1600/When%2BYou%2BTry%2Bto%2BFix%2BYour%2BCode%2Band%2BIt%2BCrashes%2BEverything%2Bby%2BTired%2BPerson.jpg" /></a></div>
+<br />
+<br />
+<h1 style="font-weight: normal;">
+Title</h1>
+<br />
+Description
