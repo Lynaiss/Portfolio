@@ -1,0 +1,31 @@
+<!--
+
+Copy this code when adding new pages. To create new pages, on your Blogger Dashboard go to Pages and hit 'New Page' button. Make sure to add a Page Title at the top right away!
+
+--INSERT TEXT--
+
+1. To add the page title in the text, replace only 'PAGE TITLE' in the code below.
+2. To add description or text, replace only 'Hi! I’m Sample Text, a bit of information about me and what I do.'
+3. To add your own email replace 'your.email@gmail.com' with your own email. Do not forget to do it in both places!
+4. To add your own social media links replace 'URL1/2' with a link and 'Social Media Link 1/2' with the name of the website, like Twitter.
+5. If you want to make more paragraphs, add the following code TWO TIMES at the beginning of a new paragraph:
+
+<br />
+
+-->
+
+
+
+<br /><br />
+<h1>
+PAGE TITLE</h1>
+<br /><br />
+Hi! I’m Sample Text, a bit of information about me and what I do.
+
+<br /><br />
+If you have any questions and current availability, you can reach me on:
+<br /><br />
+<u><a href="mailto:your.email@gmail.com">your.email@gmail.com</a></u>
+<br />
+<br />
+<br /><span style="color: #666666;"><u><a href="URL1">Social Media Link 1</a></u></span> | <span style="color: #666666;"><u><a href="URL2">Social Media Link 2</a></u></span>
