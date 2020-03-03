@@ -2,6 +2,7 @@ View demo here: https://portfolio-theme-demo.blogspot.com/
 
 This is a simple grid portfolio code to be used on Blogger!
 
+
 --INSTALLATION--
 
 1. To use it, download the file called 'Portfolio Theme by Colorlib via Lynaiss'.
@@ -10,6 +11,7 @@ This is a simple grid portfolio code to be used on Blogger!
 4. Hit the Backup/Restore button at the top right. Click Browse in the window that opens and find the file you downloaded. Upload it.
 5. The theme is now applied to your blog!
 6. On the same page click the icon under the Mobile view and select 'No. Show desktop theme on mobile devices.' This will force your theme to load on mobile too instead of Blogger's default one.
+
 
 --HEADER--
 
@@ -21,6 +23,7 @@ Add personal info.
     YOUR NAME
     What you do
 4. Hit Save button!
+
 
 --NAVIGATION--
 
@@ -34,6 +37,7 @@ Add and edit the navigation links.
     SECOND Pages tab under the Navigation Menu
 5. If any of the sections after the Header have big and bold titles, you can remove them by clicking Edit and deleting anything entered in the Title (optional).
 6. Do not forget to hit Save button in every window!
+
 
 --POSTS--
 
@@ -54,6 +58,7 @@ To maintain the uniform look of your posts, follow the next steps.
 14. Homepage posts will be displayed in order they were published, from newer to older. Same applies to the categories. To change the order, on the Blogger Dashboard go to Posts and select any posts you want to move. Hit Revert to draft button.
 15. Then hover over a post and hit Edit. In the posts's page on the right hit Schedule and select Set date and time. Choose one that will move the post up or down. Do not forget to hit Done to apply it and Publish to post!
 
+
 --LABELS--
 
 If you wish to use categories, utilize labels!
@@ -70,6 +75,7 @@ https://YOURNAME.blogspot.com/search/label/NAME?m=1
 9. In Web address (URL) enter your label link from earlier! Hit Save Link button.
 10. Do not forget to hit Save when you finish adding all your categories!
 
+
 --PAGES APPEARANCE--
 
 To maintain a nice look on pages, follow the next steps.
@@ -79,6 +85,18 @@ To maintain a nice look on pages, follow the next steps.
 3. Make sure to first enter the Page title at the top! This will ensure the web address of the page has nothing weird going on in it!
 4. Switch to HTML tab if it's not selected already.
 5. In the big part paste the code. Follow the instructions in it to make sure nothing looks off! Do not forget to hit Publish when done!
+
+
+--FONT AWESOME ICONS--
+
+Use at your own risk! This is bugged! Version v5.11.2 supported.
+
+1. To add social media icons to the sidebar, on your Blogger Dashboard go to Layour.
+2. Under Social Links title click Edit on Social Links tab.
+3. In the window that opens to the New Site Name add font awesome code for the specific icon. The code looks like this: <i class="fab fa-twitter"></i>
+4. To the New Site URL add your link to the social media. Hit Add Link.
+5. When you're done do not forget to hit Save button!
+
 
 --SEARCH RESULTS--
 
@@ -97,4 +115,6 @@ Adjust how your page shows up in search results.
 8. Replace it with the link to an image you want displayed as thumbnail when sharing your link.
 9. When done, do not forget to hit Save theme!
 
+
 DO NOT REMOVE COLORLIB CREDIT!
+
