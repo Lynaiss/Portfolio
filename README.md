@@ -59,7 +59,7 @@ If you wish to use categories, utilize labels!
 2. If you already made a post, you can add them by placing a checkmark beside the post when viewing a list of all the ones you made. Hit the tag icon at the top and select either the existing label or create a new one.
 3. After you have posts labeled, find the link to them. Blogger uses the following format: 
 https://YOURNAME.blogspot.com/search/label/NAME?m=1
-4. In the above link replace YOURNAME with the name of your website. Replace NAME with the name of your label. 
+4. In the above link replace YOURNAME with the name of your website. Replace NAME with the name of your label. These links are CASE SENSITIVE. If your label is written Like This your label link will be https://YOURNAME.blogspot.com/search/label/Like-This?m=1
 5. To add navigation links to your categories, on your Blogger Dashboard go to Layout.
 6. Click Edit on SECOND Pages tab under Navigation Menu. This is in the purple left sidebar.This is in the purple left sidebar.
 7. In the window that opens hit + Add external link.
