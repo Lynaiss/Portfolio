@@ -1,5 +1,7 @@
 <!--
 
+DELETE THIS SECTION AFTER YOU ARE DONE OR THE SAMPLE IMAGE WILL RENDER AS THUMBNAIL!
+
 --INSERT IMAGE--
 
 Add images via Compose tab. Select the already existing one and hit the Insert Image button. Upload or choose your image. When it loads into the post, make sure to select your image and set Original Size under it. New image will load above the existing one. To remove it return to HTML tab and delete the full code of second one. It is as follows:
