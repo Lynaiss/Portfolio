@@ -1,3 +1,5 @@
+View demo here: https://portfolio-theme-demo.blogspot.com/
+
 This is a simple grid portfolio code to be used on Blogger!
 
 --INSTALLATION--
