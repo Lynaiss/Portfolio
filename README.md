@@ -3,7 +3,7 @@ This is a simple grid portfolio code to be used on Blogger!
 --INSTALLATION--
 
 1. To use it, download the file called 'Portfolio Theme by Colorlib via Lynaiss'.
-2. Select any of the default themes on blogger when making a new blog. They do not matter at all.
+2. Select Simple themes on blogger when making a new blog.
 3. Then on Blogger Dashboard go to Theme. 
 4. Hit the Backup/Restore button at the top right. Click Browse in the window that opens and find the file you downloaded. Upload it.
 5. The theme is now applied to your blog!
