@@ -97,20 +97,7 @@ Use at your own risk! This is bugged! Version v5.11.2 supported.
 i class="fab fa-twitter"></i
 4. To the New Site URL add your link to the social media. Hit Add Link.
 5. When you're done do not forget to hit Save button!
-
-Here is a list of codes for most common social media. Do not forget to add < and > at the beginning and end of each line of these!
-
-i class="fab fa-tumblr"></i
-
-i class="fab fa-twitter"></i
-
-i class="fab fa-artstation"></i
-
-i class="fab fa-instagram"></i
-
-i class="fab fa-patreon"></i
-
-i class="fas fa-coffee"></i
+6. You can find more social media codes in the Font Awesome Icons file!
 
 --SEARCH RESULTS--
 
