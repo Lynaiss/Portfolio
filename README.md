@@ -117,5 +117,39 @@ Adjust how your page shows up in search results.
 9. When done, do not forget to hit Save theme!
 
 
+--GOOGLE ANALYTICS & SEARCH CONSOLE--
+
+Instructions on how to add your website to Google Analytics and Search Console.
+
+1. To add your website to Google Search Console, go to this page https://search.google.com/search-console/not-verified?original_url=/search-console/ownership&original_resource_id
+2. Click Add property in the left top corner and + Add porperty
+3. Select Url prefix option in the popup and enter the link to your website. When done click Continue button.
+4. In the following window under Other verification methods select Google Analytics. Do not proceed from here.
+5. Go to this page, click Set up for free button if you do not have an account already, and follow account making instructions. Make sure to selecet Website option! With it you will be able to see your Tracking ID you'll need later.  https://analytics.google.com/analytics/web/provision/#/provision
+6. When done, navigate Admin (cog icon in the bottom left corner) and go to Tracking Info > Tracking Code. (make sure in the dropdown menu your website is selected!)
+7. Find Tracking ID in the left upper corner. Copy it! It should look something like UA-000000-0
+8. In your blogger HTML, find the section of Global site tag (gtag.js) - Google Analytics
+9. In it replace both instances of GA_MEASUREMENT_ID with your version of Tracking ID. Hit Save theme!
+10. In Google Search Console window, hit verify. If you did everything right, your website ovnership should be verified!
+11. -This is not 100% checked, do at your own risk!- 
+In Google Seach Console, Navigate to Sitemaps. In the enter sitemap URL enter these and submit each:
+
+atom.xml?redirect=false&start-index=1&max-results=500
+sitemap.xml
+
+12. Here is a backup code for gtag, in case elements of it get fudged.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'GA_MEASUREMENT_ID');
+</script>
+
+13. This should make your website all up and ready to be indexed by Google.
+
 DO NOT REMOVE COLORLIB CREDIT!
 
