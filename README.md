@@ -136,6 +136,7 @@ Instructions on how to add your website to Google Analytics and Search Console.
 In Google Seach Console, Navigate to Sitemaps. In the enter sitemap URL enter these and submit each:
 
 atom.xml?redirect=false&start-index=1&max-results=500
+
 sitemap.xml
 
 12. Here is a backup code for gtag, in case elements of it get fudged.
