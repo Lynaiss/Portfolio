@@ -139,6 +139,8 @@ atom.xml?redirect=false&start-index=1&max-results=500
 
 sitemap.xml
 
+(not tested, use at your own risk) sitemap-pages.xml
+
 12. Here is a backup code for gtag, in case elements of it get fudged.
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
