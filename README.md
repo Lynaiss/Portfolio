@@ -93,7 +93,8 @@ Use at your own risk! This is bugged! Version v5.11.2 supported.
 
 1. To add social media icons to the sidebar, on your Blogger Dashboard go to Layour.
 2. Under Social Links title click Edit on Social Links tab.
-3. In the window that opens to the New Site Name add font awesome code for the specific icon. The code looks like this: <i class="fab fa-twitter"></i>
+3. In the window that opens to the New Site Name add font awesome code for the specific icon. The code looks like this, just ad < and > at the very beginning and end: 
+i class="fab fa-twitter"></i
 4. To the New Site URL add your link to the social media. Hit Add Link.
 5. When you're done do not forget to hit Save button!
 
