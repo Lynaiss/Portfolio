@@ -111,7 +111,7 @@ Adjust how your page shows up in search results.
     write,tags,like,this,include,your name,and,what,you do,you can add,as,many as you want
 5. Replace it with any tags that apply to your website. Make sure to include your name and types of art you do. They are separated with commas, like in the placeholder version.
 6. Replace Your Name and your.email@gmail.com right below the tags as well. 
-7. Find teh folowing: 
+7. Find the following bit of text: 
     URL to preview image
 8. Replace it with the link to an image you want displayed as thumbnail when sharing your link.
 9. When done, do not forget to hit Save theme!
