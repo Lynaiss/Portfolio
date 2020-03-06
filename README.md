@@ -11,6 +11,7 @@ This is a simple grid portfolio code to be used on Blogger! It is a heavily adju
 4. Hit the Backup/Restore button at the top right. Click Browse in the window that opens and find the file you downloaded. Upload it.
 5. The theme is now applied to your blog!
 6. On the same page click the icon under the Mobile view and select 'No. Show desktop theme on mobile devices.' This will force your theme to load on mobile too instead of Blogger's default one.
+7. Hit Settings icon and go to Basic. There in Title and Description enter your info. This is what will in future show in Google search results and when you link your website.
 
 
 --HEADER--
