@@ -101,10 +101,15 @@ i class="fab fa-twitter"></i
 Here is a list of codes for most common social media. Do not forget to add < and > at the beginning and end of each line of these!
 
 i class="fab fa-tumblr"></i
+
 i class="fab fa-twitter"></i
+
 i class="fab fa-artstation"></i
+
 i class="fab fa-instagram"></i
+
 i class="fab fa-patreon"></i
+
 i class="fas fa-coffee"></i
 
 --SEARCH RESULTS--
