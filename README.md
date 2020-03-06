@@ -42,7 +42,7 @@ Add and edit the navigation links.
 
 --POSTS--
 
-To maintain the uniform look of your posts, follow the next steps.
+To maintain the uniform look of your posts, follow the next steps. To have each image as a thumbnail, post them individually. Multiple images on the same post will not display as thumbnail, only the first one.
 
 1. Copy the code in the 'Posts Template'
 2. On your Blogger Dashboard, go to Settings > Posts, comments and sharing
