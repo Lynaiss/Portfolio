@@ -1,6 +1,6 @@
 View demo here: https://portfolio-theme-demo.blogspot.com/
 
-This is a simple grid portfolio code to be used on Blogger!
+This is a simple grid portfolio code to be used on Blogger! It is a heavily adjusted Colorlib’s Shutter theme (it's lower on the list) https://colorlib.com/wp/free-blogger-templates/
 
 
 --INSTALLATION--
