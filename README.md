@@ -1,6 +1,6 @@
 IMPORTANT UPDATE: Blogger has a slightly different interface now (September 5th 2020) so when going to the Theme page, to Restore or Edit HTML you have to click the dropdown menu icon just beside CUSTOMIZE. To set what theme is used on mobile in the same menu go to Mobile Settings.
 
-View demo here: https://portfolio-theme-demo.blogspot.com/
+View demo here: https://ivona-medarski.blogspot.com/
 
 This is a simple grid portfolio code to be used on Blogger! It is a heavily adjusted Colorlib’s Shutter theme (it's lower on the list) https://colorlib.com/wp/free-blogger-templates/
 
