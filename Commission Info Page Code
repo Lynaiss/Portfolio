@@ -1,0 +1,289 @@
+This consists of TWO parts. One is editing the code HTML and the other is adding the code to the page itself.
+
+--HTML--
+
+1. Navigate to Theme and hit the dropdown menu by the 'Customize'
+2. Select 'Edit HTML' and find /* Layout */
+3. Just ABOVE that paste the following code:
+
+/* Button Code */
+
+.buttonc {
+  background-color: #272727;
+  border: none;
+  color: white;
+  padding: 21px 34px;
+  text-align: center;
+  font-size: 15px;
+  margin: 4px 2px;
+  opacity: 1;
+  transition: 0.3s;
+  display: inline-block;
+  text-decoration: none;
+  cursor: pointer;
+font-weight: 600;
+text-transform: uppercase;}
+
+.buttonc:hover {opacity: 0.6}
+
+4. Hit 'Save' and that is all for the HTML part!
+
+--PAGE--
+
+* To view a sample of this exact same code in use, go here: https://ivona-medarski.blogspot.com/p/commission-info.html
+** For image samples, arrange your samples in a single image with nice spacing. The images on the page are displayet ad 650px wide but the links you add to the code should ensure they are opened in a tab where they can be zoomed in on. Here is an image example from my own page: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34202f48-6675-4684-829e-fb371cf73835/de4r5sb-410e2787-e1bd-4ef4-8252-a71e7f7bd9e7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzQyMDJmNDgtNjY3NS00Njg0LTgyOWUtZmIzNzFjZjczODM1XC9kZTRyNXNiLTQxMGUyNzg3LWUxYmQtNGVmNC04MjUyLWE3MWU3ZjdiZDllNy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.sYJlGTRdiT4294MTjaoiVRTE0dHyQ7XqIhz78EY_DMQ
+1. In the general blog page navigate to Pages and create a new page.
+2. In the page editor make sure you are in the HTML view.
+3. Paste in the following code template adn replace all UPPERCASE THINGS:
+
+<br /><br />
+<div style="text-align: center;">
+
+<h1>YOUR PAGE TITLE</h1></div>
+
+<br />
+<br />
+<div style="text-align: center;">INFO ABOUT THE BUTTON LINK:</div>
+<br />
+ 
+<div style="text-align: center;"><a href="BUTTON 1 URL" target="_blank"><button class="buttonc" style="vertical-align: middle; width:224px;"><span>BUTTON NAME 1</span></button></a></div>
+<br />
+
+<hr style="border-color:#e1e1e1;">
+<br />
+
+<div style="text-align: center;"><h1>PRICELIST</h1></div>
+  <br />
+
+<div style="text-align: center;"><p style="font-size:22px;">CATEGORY 1</p>
+BRIEF CATEGORY INFO<br /></div>
+
+<br /><a href="IMAGE URL 1.png" target="_blank">
+<img src="IMAGE URL 1.png" alt="Style 1 samples" style="width:100%;height:auto;"></a>
+
+
+<br /><br /><table style="font-size: 17px; margin: 0px auto;">
+  
+  <tbody>
+  
+  <tr> 
+    <td style="color: #8f8c8c;">ITEM 1: </td>
+    <td style="padding-left: 20px;">PRICE 1</td>
+  </tr>
+  
+  <tr>
+    <td style="color: #8f8c8c;">ITEM 2: </td>
+    <td style="padding-left: 20px;">PRICE 2</td>
+  </tr>
+ 
+ <tr>
+    <td style="color: #8f8c8c;">ITEM 3: </td>
+    <td style="padding-left: 20px;">PRICE 3</td>
+  </tr>
+  
+  <tr>
+    <td style="color: #8f8c8c;">ITEM 4: </td>
+    <td style="padding-left: 20px;">PRICE 4</td> 
+  </tr>
+
+  </tbody></table>
+
+<br /><br />
+<div style="width:80%; margin:auto;">
+
+<b>EXTRA INFO 1:</b> PRICE INFO 1<br />
+<b>EXTRA INFO 2:</b> PRICE INFO 2<br />
+<b>EXTRA INFO 3:</b> PRICE INFO 3<br />
+
+<br />
+</div>
+
+<br /><div style="text-align: center;">— ✦ —</div><br /><br />
+
+
+
+<div style="text-align: center;"><p style="font-size:22px;">CATEGORY 2</p>
+BRIEF CATEGORY INFO<br /></div>
+
+<br /><a href="IMAGE URL 2.png" target="_blank">
+<img src="IMAGE URL 2.png" alt="Style 1 samples" style="width:100%;height:auto;"></a>
+
+
+<br /><br /><table style="font-size: 17px; margin: 0px auto;">
+  
+  <tbody>
+  
+  <tr> 
+    <td style="color: #8f8c8c;">ITEM 1: </td>
+    <td style="padding-left: 20px;">PRICE 1</td>
+  </tr>
+  
+  <tr>
+    <td style="color: #8f8c8c;">ITEM 2: </td>
+    <td style="padding-left: 20px;">PRICE 2</td>
+  </tr>
+ 
+ <tr>
+    <td style="color: #8f8c8c;">ITEM 3: </td>
+    <td style="padding-left: 20px;">PRICE 3</td>
+  </tr>
+  
+  <tr>
+    <td style="color: #8f8c8c;">ITEM 4: </td>
+    <td style="padding-left: 20px;">PRICE 4</td> 
+  </tr>
+
+  </tbody></table>
+
+<br /><br />
+<div style="width:80%; margin:auto;">
+
+<b>EXTRA INFO 1:</b> PRICE INFO 1<br />
+<b>EXTRA INFO 2:</b> PRICE INFO 2<br />
+<b>EXTRA INFO 3:</b> PRICE INFO 3<br />
+
+<br />
+</div>
+
+<br /><div style="text-align: center;">— ✦ —</div><br /><br />
+
+
+
+<div style="text-align: center;"><p style="font-size:22px;">CATEGORY 3</p>
+BRIEF ITEM INFO<br /></div>
+
+<br /><a href="IMAGE URL 3.png" target="_blank">
+<img src="IMAGE URL 3.png" alt="Style 1 samples" style="width:100%;height:auto;"></a>
+
+
+<br /><br /><table style="font-size: 17px; margin: 0px auto;">
+  
+  <tbody>
+  
+  <tr> 
+    <td style="color: #8f8c8c;">ITEM 1: </td>
+    <td style="padding-left: 20px;">PRICE 1</td>
+  </tr>
+  
+  <tr>
+    <td style="color: #8f8c8c;">ITEM 2: </td>
+    <td style="padding-left: 20px;">PRICE 2</td>
+  </tr>
+ 
+ <tr>
+    <td style="color: #8f8c8c;">ITEM 3: </td>
+    <td style="padding-left: 20px;">PRICE 3</td>
+  </tr>
+
+
+  </tbody></table>
+
+<br /><br />
+<div style="width:80%; margin:auto;">
+
+<b>EXTRA INFO 1:</b> PRICE INFO 1<br />
+<b>EXTRA INFO 2:</b> PRICE INFO 2<br />
+
+<br />
+</div>
+
+<br /><div style="text-align: center;">— ✦ —</div><br /><br />
+
+
+<div style="text-align: center;"><a href="BUTTON 1 URL" target="_blank"><button class="buttonc" style="vertical-align: middle; width:224px;"><span>BUTTON NAME 1</span></button></a></div>
+<br />
+
+<br />
+<hr style="border-color:#e1e1e1;">
+<br />
+
+<div style="text-align: center;"><h1>STATUS</h1>
+
+  <br />
+<p>STATUS INFO</p></div>
+<br />
+
+ <div style="text-align: center;"><a href="BUTTON 2 URL" target="_blank"><button class="buttonc" style="vertical-align: middle; width:224px;"><span>BUTTON NAME 2</span></button></a></div>
+
+<br />
+<br />
+<hr style="border-color:#e1e1e1;">
+<br />
+
+<div style="text-align: center;"><h1>INFORMATION</h1></div>
+
+<br /><br /><table style=" width:100%; max-width:400px; text-align:left;margin: 0px auto;">
+ 
+ <tbody>
+  
+  <tr> 
+    <td style="font-size:17px;">WILL DRAW TITLE:</td>
+    <td style="font-size:17px;">WON'T DRAW TITLE:</td>
+  </tr>
+  
+  <tr>
+  <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+ 
+ <tr>
+    <td>✔ WILL DO ITEM 1</td>
+    <td>✖ WON'T DO ITEM 1</td>
+  </tr>
+
+ <tr>
+    <td>✔ WILL DO ITEM 2</td>
+    <td>✖ WON'T DO ITEM 2</td>
+  </tr>
+  
+ <tr>
+    <td>✔ WILL DO ITEM 3</td>
+    <td>✖ WON'T DO ITEM 3</td>
+  </tr>
+  
+     <tr>
+    <td>✔ WILL DO ITEM 4</td>
+    <td>✖ WON'T DO ITEM 4</td>
+  </tr>
+  
+ <tr>
+    <td>✔ WILL DO ITEM 5</td>
+    <td>✖ WON'T DO ITEM 5</td>
+  </tr>
+  
+  </tbody></table><br /><br /><br />
+ 
+  <p style="font-size:17px; text-align:center;">INFO 1 TITLE</p><br />
+  
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+<br /><br />
+ 
+  <p style="font-size:17px; text-align:center;">INFO 2 TITLE</p><br />
+  
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+⯈ ADD INFO LINE<br />
+
+<br />
+
