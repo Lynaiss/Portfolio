@@ -1,0 +1,9 @@
+By default when adding images via Insert Image button on blogger, it sets the size as 'Medium'. When you are adding images that are on blogger or your computer through this, and 'Medium' size is set, significant quality degradation and blurring will occur.
+
+Make sure to ALWAYS set 'Original size' for your images.
+
+Here is a test page with the sample image I used previously https://ivona-medarski.blogspot.com/p/quality-degradation.html
+
+This occurs regardless of the image size, but only with uploaded images. External ones do not suffer the same degradation.
+
+*Try to keep your images under 5 MB to avoid your page loading slow.
