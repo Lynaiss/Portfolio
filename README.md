@@ -104,11 +104,11 @@ i class="fab fa-twitter"></i
 
 --SEARCH RESULTS--
 
-Adjust how your page shows up in search results.
+Adjust how your page shows up in search results. All of this is located in the --META-- section, but preview image is the only thing in the --START CUSTOM CODE-- section.
 
 1. On Blogger Dashboard go to Theme and hit Edit HTML button.
 2. In the code that opens find the following bit of text:
-    Short description of what this website is for.
+    Simple grid view portfolio theme for artists made by Colorlib and edited by Lynaiss.
 3. Replace it with a short description of what the website is for. This will show in Google Search results. 'Illustration portfolio of Your Name' is a good choice.
 4. Find this bit of text:
     write,tags,like,this,include,your name,and,what,you do,you can add,as,many as you want
@@ -116,7 +116,7 @@ Adjust how your page shows up in search results.
 6. Replace Your Name and your.email@gmail.com right below the tags as well. 
 7. Find the following bit of text: 
     URL to preview image
-8. Replace it with the link to an image you want displayed as thumbnail when sharing your link.
+8. Replace it with the link to an image you want displayed as thumbnail when sharing your link. Most images you're trying to link have a .hpg or -png at the end.
 9. When done, do not forget to hit Save theme!
 
 
