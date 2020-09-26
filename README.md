@@ -131,8 +131,8 @@ Instructions on how to add your website to Google Analytics and Search Console.
 5. Go to this page, click Set up for free button if you do not have an account already, and follow account making instructions. Make sure to selecet Website option! With it you will be able to see your Tracking ID you'll need later.  https://analytics.google.com/analytics/web/provision/#/provision
 6. When done, navigate Admin (cog icon in the bottom left corner) and go to Tracking Info > Tracking Code. (make sure in the dropdown menu your website is selected!)
 7. Find Tracking ID in the left upper corner. Copy it! It should look something like UA-000000-0
-8. In your blogger HTML, find the section of Global site tag (gtag.js) - Google Analytics
-9. In it replace both instances of GA_MEASUREMENT_ID with your version of Tracking ID. Hit Save theme!
+8. In your blogger HTML, find the following section: -- Global site tag (gtag.js) - Google Analytics --
+9. In it replace BOTH instances of GA_MEASUREMENT_ID with your version of Tracking ID. Hit Save theme!
 10. In Google Search Console window, hit verify. If you did everything right, your website ovnership should be verified!
 11. -This is not 100% checked, do at your own risk!- 
 In Google Seach Console, Navigate to Sitemaps. In the enter sitemap URL enter these and submit each:
