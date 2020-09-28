@@ -7,13 +7,14 @@ This is a simple grid portfolio code to be used on Blogger! It is a heavily adju
 
 --INSTALLATION--
 
-1. To use it, download the file called 'Portfolio Theme by Colorlib via Lynaiss'.
+1. To use it, download the file called 'Portfolio Theme by Colorlib via Lynaiss'. It is a .zip file to prevent github from messing with the code. Unzip it after download. You will get an .xml file with the same name - this is what you will be using.
 2. Select Simple themes on blogger when making a new blog.
 3. Then on Blogger Dashboard go to Theme. 
-4. Hit the Backup/Restore button at the top right. Click Browse in the window that opens and find the file you downloaded. Upload it.
+4. Hit the dropdown menu by the Customize button and select Restore. Click Upload in the window that opens and find the .xml file you downloaded. Upload it.
 5. The theme is now applied to your blog!
-6. On the same page click the icon under the Mobile view and select 'No. Show desktop theme on mobile devices.' This will force your theme to load on mobile too instead of Blogger's default one.
+6. In the same dropdown menu click on the Mobile Settings. In the window that opens select 'Desktop' and hit Save! This will force your theme to load on mobile too instead of Blogger's default one.
 7. Hit Settings icon and go to Basic. There in Title and Description enter your info. This is what will in future show in Google search results and when you link your website.
+8. Blogger adds a lot of junk widgets so when you have your theme set up, remove any that are not show in the Widget Samples attachment.
 
 
 --HEADER--
@@ -33,7 +34,7 @@ Add personal info.
 Add and edit the navigation links.
 
 1. To add pages, on Blogger Dashboard go to Layout. 
-2. Click Edit on the FIRST Pages tab under Navigation Menu title. This is in the purple left sidebar.This is in the purple left sidebar. Any pages you created will be selectable.
+2. Click Edit on the FIRST Pages tab under Navigation Menu title. This is in the purple left sidebar. Any pages you created will be selectable.
 3. To add your email and remove the placeholder one, in the same window hit X on the placeholder. Hit + Add external link. For Page title enter either the full email address or something like 'Email' or 'Contact'. In Web address (URL) enter the email link. This has the form of mailto:your.email@gmail.com but replace your.email@gmail.com with your own.
 4. This theme supports having art categories via Labels. If you do not wish to use them, hit Edit and then Remove button on the following items:
     HTML/Javascript tab under the Navigation Menu
@@ -70,13 +71,14 @@ If you wish to use categories, utilize labels!
 2. If you already made a post, you can add them by placing a checkmark beside the post when viewing a list of all the ones you made. Hit the tag icon at the top and select either the existing label or create a new one.
 3. After you have posts labeled, find the link to them. Blogger uses the following format: 
 https://YOURNAME.blogspot.com/search/label/NAME?m=1
-4. In the above link replace YOURNAME with the name of your website. Replace NAME with the name of your label. These links are CASE SENSITIVE. If your label is written Like This your label link will be https://YOURNAME.blogspot.com/search/label/Like-This?m=1 (tip: if your category has several words, best write the labels like-this so there are no issues linking to it)
+4. In the above link replace YOURNAME with the name of your website. Replace NAME with the name of your label. These links are CASE SENSITIVE. If your label is written Like This your label link will be https://YOURNAME.blogspot.com/search/label/Like-This?m=1 (tip: if your category has several words, best write the labels themselves like-this so there are no issues linking to it)
 5. To add navigation links to your categories, on your Blogger Dashboard go to Layout.
 6. Click Edit on SECOND Pages tab under Navigation Menu. This is in the purple left sidebar.This is in the purple left sidebar.
 7. In the window that opens hit + Add external link.
-8. In Page title enter whatever you wish your category to be called as, like 'Portraits'.
+8. In Page title enter whatever you wish your category to be called as in navigation, like 'Portraits'.
 9. In Web address (URL) enter your label link from earlier! Hit Save Link button.
 10. Do not forget to hit Save when you finish adding all your categories!
+* ?m=1 is actually a mobile addition. The code that makes the category you're viewing bolded in navigation does not work on mobile if this is not used, so it's recommended to include in your lable links.
 
 
 --PAGES APPEARANCE--
