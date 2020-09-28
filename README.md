@@ -62,6 +62,7 @@ To maintain the uniform look of your posts, follow the next steps. To have each 
 14. Homepage posts will be displayed in order they were published, from newer to older. Same applies to the categories. To change the order, on the Blogger Dashboard go to Posts and select any posts you want to move. Hit Revert to draft button.
 15. Then hover over a post and hit Edit. In the posts's page on the right hit Schedule and select Set date and time. Choose one that will move the post up or down. Do not forget to hit Done to apply it and Publish to post!
 
+* Make sure when uploading things directly to blogger and adding them to your post to select 'Original Size' in the size settings for every image. Otherwise they WILL get compressed by blogger and become less crisp. This is very important!
 
 --LABELS--
 
@@ -78,7 +79,7 @@ https://YOURNAME.blogspot.com/search/label/NAME?m=1
 8. In Page title enter whatever you wish your category to be called as in navigation, like 'Portraits'.
 9. In Web address (URL) enter your label link from earlier! Hit Save Link button.
 10. Do not forget to hit Save when you finish adding all your categories!
-* ?m=1 is actually a mobile addition. The code that makes the category you're viewing bolded in navigation does not work on mobile if this is not used, so it's recommended to include in your lable links.
+* ?m=1 is actually a mobile addition. The code that makes the category you're viewing bolded in navigation does not work on mobile if this is not used, so it's recommended to include in your label links.
 
 
 --PAGES APPEARANCE--
