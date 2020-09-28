@@ -14,7 +14,7 @@ This is a simple grid portfolio code to be used on Blogger! It is a heavily adju
 5. The theme is now applied to your blog!
 6. In the same dropdown menu click on the Mobile Settings. In the window that opens select 'Desktop' and hit Save! This will force your theme to load on mobile too instead of Blogger's default one.
 7. Hit Settings icon and go to Basic. There in Title and Description enter your info. This is what will in future show in Google search results and when you link your website.
-8. Blogger adds a lot of junk widgets so when you have your theme set up, remove any that are not show in the Widget Samples attachment.
+8. Blogger adds a lot of junk widgets so when you have your theme set up, go to Layout and remove any widgets that are not show in the Widget Samples attachment. You can do that by hitting Edit at the bottom right of every widget and hitting Remove button in the window that opens up.
 
 
 --HEADER--
