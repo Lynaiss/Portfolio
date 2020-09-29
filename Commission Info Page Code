@@ -2,7 +2,8 @@ This consists of TWO parts. One is editing the blog code HTML and the other is a
 
 --HTML CODE PART--
 
-* This is the code that adds a new button style that looks more like the rest of the blog styling and adds a proper hover effect.
+* This is the code that adds a new button style that looks more like the rest of the blog styling and adds a proper hover effect. If you are using any v2 of the theme code, this is already added in the code! You can skip this part.
+
 1. Navigate to Theme and hit the dropdown menu by the 'Customize'
 2. Select 'Edit HTML' and find /* Layout */
 3. Just ABOVE that paste the following code:
@@ -34,6 +35,7 @@ text-transform: uppercase;}
 * To view a sample of this exact same code in use, go here: https://ivona-medarski.blogspot.com/p/commission-info.html
 ** For image samples, arrange your samples in a single image with nice spacing. The images on the page are displayet ad 650px wide but the links you add to the code should ensure they are opened in a tab where they can be zoomed in on. Here is an image example from my own page: https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/34202f48-6675-4684-829e-fb371cf73835/de4r5sb-410e2787-e1bd-4ef4-8252-a71e7f7bd9e7.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzQyMDJmNDgtNjY3NS00Njg0LTgyOWUtZmIzNzFjZjczODM1XC9kZTRyNXNiLTQxMGUyNzg3LWUxYmQtNGVmNC04MjUyLWE3MWU3ZjdiZDllNy5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.sYJlGTRdiT4294MTjaoiVRTE0dHyQ7XqIhz78EY_DMQ
 *** On most of the blog I use images hosted on the blogger itself, but here I added images from deviantart stash to keep the code cleaner and eliminate the need to edit blogger's code that gets added with the images from it. Images weere NOT added via the insert image button and the link option. That still adds a lot of junk code. To add yours directly to the code yourself make sure to copy the image link. In a lot of cases it has a .jpg or .png at the end (note that my sample code does not, sometimes there are exceptions). Paste that in BOTH 'IMAGE URL' parts for the category you're editing.
+
 1. In the general blog page navigate to Pages and create a new page.
 2. In the page editor make sure you are in the HTML view.
 3. Paste in the following code template and replace all UPPERCASE THINGS:
