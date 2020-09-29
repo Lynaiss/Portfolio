@@ -12,6 +12,22 @@ Copy this code when adding new pages. To create new pages, on your Blogger Dashb
 
 <br />
 
+6. If you want Font Awesome Icons at the bottom of all the text you entered, paste in this sample code AFTER all the other code below:
+
+<br /><br /><br />
+<p style="font-size: 20px;">
+<a href="LINK URL" target="_blank"><i class="fab fa-twitter"></i></a>&nbsp;&nbsp;
+<a href="LINK URL" target="_blank"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;
+<a href="LINK URL" target="_blank"><i class="fab fa-artstation"></i></a></p><br />
+
+7. Replace LINK URL with a link to the website/social media account you're adding. To replace or add different websites than those in the sample, copy the 'fab fa-xyz' of the one you want from the Font Awesome Icons https://github.com/Lynaiss/Portfolio/blob/master/Font%20Awesome%20Icons and replace those you don't want with it. If the list doesn't have what you'd like, you can find more on the official Font Awesome page https://fontawesome.com/icons?d=gallery
+8. If you want more icons than three, add each just under the first one and follow this same formula:
+
+<a href="LINK URL" target="_blank"><i class="fab fa-xyz"></i></a>&nbsp;&nbsp;
+
+* &nbsp;&nbsp; is a code that adds spacing between icons. It is needed between them, but not after the very last one.
+** target="_blank" is a piece of code that forces your link to open in a new tab.
+
 -->
 
 
@@ -29,3 +45,4 @@ If you have any questions, you can reach me on:
 <br />
 <br />
 <br /><span style="color: #666666;"><u><a href="URL1">Social Media Link 1</a></u></span> | <span style="color: #666666;"><u><a href="URL2">Social Media Link 2</a></u></span>
+
