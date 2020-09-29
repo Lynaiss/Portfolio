@@ -7,7 +7,14 @@ This is a simple grid portfolio code to be used on Blogger! It is a heavily adju
 
 --INSTALLATION--
 
-1. To use it, download the file called 'Portfolio Theme by Colorlib via Lynaiss v2'. It is a .zip file to prevent github from messing with the code. Unzip it after download. You will get an .xml file with the same name - this is what you will be using. Download link: https://github.com/Lynaiss/Portfolio/raw/master/Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
+* Dark version was added to v2. Light one has no denominator. To view screenshots of both go to Theme Samples. Download only one of these versions and follow instructions with that one.  https://github.com/Lynaiss/Portfolio/blob/master/Theme%20Samples.jpg
+
+1. To use this theme, download Either the dark or light version. Download links:
+Light - https://github.com/Lynaiss/Portfolio/blob/master/Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
+Dark - https://github.com/Lynaiss/Portfolio/blob/master/DARK%20Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
+
+The file is a .zip file to prevent github from messing with the code. Unzip it after download. You will get an .xml file with the same name - this is what you will be using. 
+
 2. Select Simple themes on blogger when making a new blog.
 3. Then on Blogger Dashboard go to Theme. 
 4. Hit the dropdown menu by the Customize button and select Restore. Click Upload in the window that opens and find the .xml file you downloaded. Upload it.
