@@ -14,7 +14,7 @@ This is a simple grid portfolio code to be used on Blogger! It is a heavily adju
 5. The theme is now applied to your blog!
 6. In the same dropdown menu click on the Mobile Settings. In the window that opens select 'Desktop' and hit Save! This will force your theme to load on mobile too instead of Blogger's default one.
 7. Hit Settings icon and go to Basic. There in Title and Description enter your info. This is what will in future show in Google search results and when you link your website.
-8. Blogger adds a lot of junk widgets so when you have your theme set up, go to Layout and remove any widgets that are not show in the Widget Samples attachment. You can do that by hitting Edit at the bottom right of every widget and hitting Remove button in the window that opens up.
+8. Blogger adds a lot of junk widgets so when you have your theme set up, go to Layout and remove any widgets that are not show in the Widget Samples attachment; https://github.com/Lynaiss/Portfolio/blob/master/Widget%20Samples.jpg . You can do that by hitting Edit at the bottom right of every widget and hitting Remove button in the window that opens up. Most likely you won't have to touch anything in the purple sidebar in the Layout.
 
 
 --HEADER--
@@ -47,7 +47,7 @@ Add and edit the navigation links.
 
 To maintain the uniform look of your posts, follow the next steps. To have each image as a thumbnail, post them individually. Multiple images on the same post will not display as thumbnail, only the first one. Thumbnails load from latest to oldest.
 
-1. Copy the code in the 'Posts Template'
+1. Copy the code in the 'Posts Template' https://github.com/Lynaiss/Portfolio/blob/master/Posts%20Template
 2. On your Blogger Dashboard, go to Settings > Posts, comments and sharing
 3. In the Post Template part paste the code you copied. Don't forget to hit Save Settings button!
 4. To make a new post, on your Blogger Dashboard go to Posts and hit the New post button.
@@ -63,6 +63,7 @@ To maintain the uniform look of your posts, follow the next steps. To have each 
 15. Then hover over a post and hit Edit. In the posts's page on the right hit Schedule and select Set date and time. Choose one that will move the post up or down. Do not forget to hit Done to apply it and Publish to post!
 
 * Make sure when uploading things directly to blogger and adding them to your post to select 'Original Size' in the size settings for every image. Otherwise they WILL get compressed by blogger and become less crisp. This is very important!
+** To display image titles on hover when viewing thumbnails, make sure to entre Title in the top part of the post editor, not just into the code mentioned in the Post Template!
 
 --LABELS--
 
@@ -79,6 +80,7 @@ https://YOURNAME.blogspot.com/search/label/NAME?m=1
 8. In Page title enter whatever you wish your category to be called as in navigation, like 'Portraits'.
 9. In Web address (URL) enter your label link from earlier! Hit Save Link button.
 10. Do not forget to hit Save when you finish adding all your categories!
+
 * ?m=1 is actually a mobile addition. The code that makes the category you're viewing bolded in navigation does not work on mobile if this is not used, so it's recommended to include in your label links.
 
 
@@ -86,7 +88,7 @@ https://YOURNAME.blogspot.com/search/label/NAME?m=1
 
 To maintain a nice look on pages, follow the next steps.
 
-1. Copy the code in the 'Pages Template'
+1. Copy the code in the 'About Page Template' https://github.com/Lynaiss/Portfolio/blob/master/About%20Page%20Template
 2. On your Blogger Dashboard go to Pages and hit the New page button.
 3. Make sure to first enter the Page title at the top! This will ensure the web address of the page has nothing weird going on in it!
 4. Switch to HTML tab if it's not selected already.
@@ -95,15 +97,19 @@ To maintain a nice look on pages, follow the next steps.
 
 --FONT AWESOME ICONS--
 
-Use at your own risk! This is bugged! Version v5.11.2 supported.
+Use at your own risk! This is bugged! Icons seem to have a load stutter and are slow to render. Version v5.11.2 supported.
 
-1. To add social media icons to the sidebar, on your Blogger Dashboard go to Layour.
+1. To add social media icons to the sidebar, on your Blogger Dashboard go to Layout.
 2. Under Social Links title click Edit on Social Links tab.
-3. In the window that opens to the New Site Name add font awesome code for the specific icon. The code looks like this, just ad < and > at the very beginning and end: 
+3. In the window that opens to the New Site Name add font awesome code for the specific icon. The code looks like this, just add < and > at the very beginning and end: 
 i class="fab fa-twitter"></i
 4. To the New Site URL add your link to the social media. Hit Add Link.
 5. When you're done do not forget to hit Save button!
-6. You can find more social media codes in the Font Awesome Icons file!
+6. You can find more social media codes in the Font Awesome Icons file! https://github.com/Lynaiss/Portfolio/blob/master/Font%20Awesome%20Icons
+7. If you don't want any social icons on the home page, go to Layout. Find Social Links widget in the purple sidebar. Hit Edit button. In the window that opens (Look at Social Links Widget Collapsed; https://github.com/Lynaiss/Portfolio/blob/master/Social%20Links%20Widget%20Collapsed.JPG ) you can hit Delete on all the icons that came in there with the theme. Don't remove the widget itself in case you want to use it later.
+8. If you want to edit the icons already there and add your own links, click on the Edit text. This will open each icon field for you to edit. Look at Social Links Widget Open for a screenshot; https://github.com/Lynaiss/Portfolio/blob/master/Social%20Links%20Widget%20Open.JPG
+
+* You can also add Font Awesome Icons to your About Page. For instructions on that, go to the About Page Template https://github.com/Lynaiss/Portfolio/blob/master/About%20Page%20Template
 
 --SEARCH RESULTS--
 
@@ -121,6 +127,8 @@ Adjust how your page shows up in search results. All of this is located in the -
     URL to preview image
 8. Replace it with the link to an image you want displayed as thumbnail when sharing your link. Most images you're trying to link have a .hpg or -png at the end.
 9. When done, do not forget to hit Save theme!
+
+* To have a preview image as a favicon in the blog tab when viewing it via a browser as well, go to Settings. Navigate to Basic section of it and hit 'Favicon'. In there you can upload your icon.
 
 
 --GOOGLE ANALYTICS & SEARCH CONSOLE--
