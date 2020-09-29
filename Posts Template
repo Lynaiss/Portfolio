@@ -1,6 +1,6 @@
 <!--
 
-WHEN YOU'RE READY TO POSZ YOUR POST, DELETE THE FIRST SAMPLE IMAGE CODE IN THIS INSTRUCTIONS SECTION OR IT WILL RENDER AS THUMBNAIL! 
+WHEN YOU'RE READY TO POST YOUR POST, DELETE THE FIRST SAMPLE IMAGE CODE IN THIS INSTRUCTIONS SECTION OR IT WILL RENDER AS THUMBNAIL! 
 
 --INSERT IMAGE GUIDE--
 
@@ -25,6 +25,10 @@ Add title and description by replacing the following:
 
 Title
 Description
+
+--ADDITIONAL NOTES--
+Add Title in the blogger's Title section above the post window. This will render as image title when you hover over the image thumbnail on the main pages.
+Add this title first and then go to Permalink tab on the right. In it select 'Custom Permalink' and give your post a nice URL. The date tag of the URL can't be changed.
 
 -->
 
