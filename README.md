@@ -7,7 +7,7 @@ This is a simple grid portfolio code to be used on Blogger! It is a heavily adju
 
 --INSTALLATION--
 
-* Dark version and Nvbar variants have been added to v2. Light one has no denominator. To view screenshots of both go to Theme Samples. Download only one of these versions and follow instructions with that one.  https://github.com/Lynaiss/Portfolio/blob/master/Theme%20Samples%20v2.jpg
+* Dark version and Navbar variants have been added to v2. Light one has no denominator. To view screenshots of both go to Theme Samples. Download only one of these versions and follow instructions with that one.  https://github.com/Lynaiss/Portfolio/blob/master/Theme%20Samples%20v2.jpg
 
 1. To use this theme, Download the version you want. Download links:
 Light - https://github.com/Lynaiss/Portfolio/blob/master/Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
