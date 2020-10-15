@@ -29,6 +29,10 @@ text-transform: uppercase;}
 .buttonc:hover {opacity: 0.6}
 
 4. Hit 'Save' and that is all for the HTML part!
+5. If using a dark version, in the following chunk of code: <hr style="border-color:#e1e1e1;">
+Replace replace #e1e1e1 with #333 
+This will make the horizontal lines separating sections darker and less obtrusive.
+
 
 --PAGE--
 
