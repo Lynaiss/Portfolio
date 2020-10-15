@@ -7,13 +7,15 @@ This is a simple grid portfolio code to be used on Blogger! It is a heavily adju
 
 --INSTALLATION--
 
-* Dark version was added to v2. Light one has no denominator. To view screenshots of both go to Theme Samples. Download only one of these versions and follow instructions with that one.  https://github.com/Lynaiss/Portfolio/blob/master/Theme%20Samples.jpg
+* Dark version and Nvbar variants have been added to v2. Light one has no denominator. To view screenshots of both go to Theme Samples. Download only one of these versions and follow instructions with that one.  https://github.com/Lynaiss/Portfolio/blob/master/Theme%20Samples%20v2.jpg
 
-1. To use this theme, download Either the dark or light version. Download links:
+1. To use this theme, Download the version you want. Download links:
 Light - https://github.com/Lynaiss/Portfolio/blob/master/Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
 Dark - https://github.com/Lynaiss/Portfolio/blob/master/DARK%20Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
+Navbar Light- https://github.com/Lynaiss/Portfolio/blob/master/NAVBAR%20Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
+Navbar Dark - https://github.com/Lynaiss/Portfolio/blob/master/NAVBAR%20DARK%20Portfolio%20Theme%20by%20Colorlib%20via%20Lynaiss%20v2.zip
 
-The file is a .zip file to prevent github from messing with the code. Unzip it after download. You will get an .xml file with the same name - this is what you will be using. 
+The file is a .zip file to prevent github from messing with the code. Unzip it after download. You will get an .xml file with the same name - this is what you will be using. If using Navbar variant, scroll down to the NAVBAR GUIDE
 
 2. Select Simple themes on blogger when making a new blog.
 3. Then on Blogger Dashboard go to Theme. 
@@ -21,7 +23,7 @@ The file is a .zip file to prevent github from messing with the code. Unzip it a
 5. The theme is now applied to your blog!
 6. In the same dropdown menu click on the Mobile Settings. In the window that opens select 'Desktop' and hit Save! This will force your theme to load on mobile too instead of Blogger's default one.
 7. Hit Settings icon and go to Basic. There in Title and Description enter your info. This is what will in future show in Google search results and when you link your website.
-8. Blogger adds a lot of junk widgets so when you have your theme set up, go to Layout and remove any widgets that are not show in the Widget Samples attachment; https://github.com/Lynaiss/Portfolio/blob/master/Widget%20Samples.jpg . You can do that by hitting Edit at the bottom right of every widget and hitting Remove button in the window that opens up. Most likely you won't have to touch anything in the purple sidebar in the Layout.
+8. Blogger adds a lot of junk widgets so when you have your theme set up, go to Layout and remove any widgets that are not show in the Widget Samples attachment; https://github.com/Lynaiss/Portfolio/blob/master/Widget%20Samples.jpg . You can do that by hitting Edit at the bottom right of every widget and hitting Remove button in the window that opens up. Most likely you won't have to touch anything in the purple sidebar in the Layout. If using the Navbar variant, just disregard this step.
 
 
 --HEADER--
@@ -117,6 +119,35 @@ i class="fab fa-twitter"></i
 8. If you want to edit the icons already there and add your own links, click on the Edit text. This will open each icon field for you to edit. Look at Social Links Widget Open for a screenshot; https://github.com/Lynaiss/Portfolio/blob/master/Social%20Links%20Widget%20Open.JPG
 
 * You can also add Font Awesome Icons to your About Page. For instructions on that, go to the About Page Template https://github.com/Lynaiss/Portfolio/blob/master/About%20Page%20Template
+
+
+--NAVBAR GUIDE--
+
+These versions do not support: 
+ - Social Icons in navigation
+ - Separate art categories via Labels. You can still add your categories as normal pages but there is a limit. Past it the link text in navigation gets broken.
+
+Add your pages in the Layout as normal, majority of the steps mentioned in NAVIGATION do not apply here. Replace things however you like, and be mindful of labels if using them (look through LABELS for pointers on how to write them and what link fromat Blogger uses for them). Things outlined in HEADER do not apply to this version.   
+
+WARNING: All of the following steps are to be done WITHIN the HTML of the theme. I have not found a way to make this more user friendly at the time. Some basic understanding of HTML is necessary.
+
+1. Find the following bit of text: YOUR NAME 
+2. Replace it with your name or username
+3. Find the following text: What You Do
+4. Replace it with a short tagline, such as Freelance Illustrator or Ceoncept Artist
+5. Pages list for navigation on mobile has to be manually entered. 
+6. In the code find the exact phrase: 'home'
+7. The first instance of it is within a chunk of code that you can copy. It would look something similar to the following (link titles and links might be different depending on what you set up; do NOT copy this chunk of code, it is just an example, copy one in your blog's HTML):
+
+<![CDATA[{'home': {'href': 'https://testymctest2.blogspot.com/', 'title': 'Home', 'position': 0}, 'link0': {'href': 'https://github.com/Lynaiss/Portfolio', 'title': 'Download Theme', 'position': 1}, 'link1': {'href': 'https://github.com/Lynaiss/Portfolio', 'title': 'Theme Documentation', 'position': 2}, 'link2': {'href': 'mailto:placeholder@gmail.com', 'title': 'Email', 'position': 3}, 'link3': {'href': 'https://YOURNAME.blogspot.com/search/label/NAME1?m\x3d1', 'title': 'Label Name 1', 'position': 4}, 'link4': {'href': 'https://YOURNAME.blogspot.com/search/label/NAME2?m\x3d1', 'title': 'Label Name 2', 'position': 5}}]]>
+
+8. Next, find the THIRD instance of the following code : 'home'
+9. You will see the same chunk of code like in the previous step. It would look something like this:
+
+<![CDATA[{'home': {'href': 'https://testymctest2.blogspot.com/', 'title': 'Home', 'position': 0}, 'link0': {'href': 'https://github.com/Lynaiss/Portfolio', 'title': 'Theme Documentation', 'position': 1}, 'link1': {'href': 'https://github.com/Lynaiss/Portfolio', 'title': 'Download Theme', 'position': 2}, 'link2': {'href': 'mailto:placeholder@gmail.com', 'title': 'Emailš', 'position': 3}, 'link3': {'href': 'https://YOURNAME.blogspot.com/search/label/NAME1?m\x3d1', 'title': 'Label Name 1', 'position': 4}, 'link4': {'href': 'https://YOURNAME.blogspot.com/search/label/NAME2?m\x3d1', 'title': 'Label Name 2', 'position': 5}}]]>
+
+10. Select it and paste in the code you copied earlier. Save the theme and your setup should be complete!
+
 
 --SEARCH RESULTS--
 
