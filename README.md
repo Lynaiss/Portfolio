@@ -1,4 +1,4 @@
-DOWNLOAD THIS README BECAUSE GITHUB NATIVELY MESSES WITH THE CODE CHUNKS WRITTEN IN HERE AS EXAMPLES
+VIEW THIS README HERE BECAUSE GITHUB NATIVELY MESSES WITH CODE EXAMPLES https://raw.githubusercontent.com/Lynaiss/Portfolio/master/README.md
 
 IMPORTANT UPDATE: Blogger has a slightly different interface now (September 5th 2020) so when going to the Theme page, to Restore or Edit HTML you have to click the dropdown menu icon just beside CUSTOMIZE. To set what theme is used on mobile in the same menu go to Mobile Settings.
 
