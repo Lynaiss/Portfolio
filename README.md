@@ -1,3 +1,5 @@
+DOWNLOAD THIS README BECAUSE GITHUB NATIVELY MESSES WITH THE CODE CHUNKS WRITTEN IN HERE AS EXAMPLES
+
 IMPORTANT UPDATE: Blogger has a slightly different interface now (September 5th 2020) so when going to the Theme page, to Restore or Edit HTML you have to click the dropdown menu icon just beside CUSTOMIZE. To set what theme is used on mobile in the same menu go to Mobile Settings.
 
 View demo here: https://ivona-medarski.blogspot.com/
