@@ -1,38 +1,6 @@
-This consists of TWO parts. One is editing the blog code HTML and the other is adding the code to the page itself.
-
---HTML CODE PART--
-
-* This is the code that adds a new button style that looks more like the rest of the blog styling and adds a proper hover effect. If you are using any v2 of the theme code, this is already added in the code! You can skip this part.
-
-1. Navigate to Theme and hit the dropdown menu by the 'Customize'
-2. Select 'Edit HTML' and find /* Layout */
-3. Just ABOVE that paste the following code:
-
-/* Button Code */
-
-.buttonc {
-  background-color: #272727;
-  border: none;
-  color: white;
-  padding: 21px 34px;
-  text-align: center;
-  font-size: 15px;
-  margin: 4px 2px;
-  opacity: 1;
-  transition: 0.3s;
-  display: inline-block;
-  text-decoration: none;
-  cursor: pointer;
-font-weight: 600;
-text-transform: uppercase;}
-
-.buttonc:hover {opacity: 0.6}
-
-4. Hit 'Save' and that is all for the HTML part!
-5. If using a dark version, in the following chunk of code: <hr style="border-color:#e1e1e1;">
+If using a dark version, in the following chunk of code: <hr style="border-color:#e1e1e1;">
 Replace replace #e1e1e1 with #333 
 This will make the horizontal lines separating sections darker and less obtrusive.
-
 
 --PAGE--
 
